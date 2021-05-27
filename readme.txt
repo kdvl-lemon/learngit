@@ -4,5 +4,9 @@ Git is a free software.
 第一次验证git修改！
 第二次验证git修改！
 转到dev分支上！！！
-Creating a new branch is quick & simple
+<<<<<<< HEAD
+Creating a new branch is quick AND simple
+=======
+Creating a new branch is quick AND simple
+>>>>>>> feature1
 
